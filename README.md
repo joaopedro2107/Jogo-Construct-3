@@ -25,12 +25,17 @@
 ## 📦 Como Jogar
 
 1. Baixe ou abra o jogo no navegador.
-2. Comece a partida e mova-se pelas fases infinitas.
-3. Atire nos zumbis e sobreviva o máximo que puder.
-4. Alcance a maior pontuação possível!
+2. Atire nos zumbis e sobreviva o máximo que puder.
+3. Alcance a maior pontuação possível!
+link para ACESSO!!!
+https://www.construct.net/en/free-online-games/robo-vs-zumbis-76078/play
+
+
 
 https://jogo-construct-3-a92c5-default-rtdb.firebaseio.com/ 
-Jogo no Firebase
+JOGO NO FIREBASE
+
+
 ![image](https://github.com/user-attachments/assets/109fd82e-aec1-4e05-9077-8bb0789ad093)
 ![image](https://github.com/user-attachments/assets/34b98b45-d10a-4e4a-9b54-dfe3543eb675)
 
