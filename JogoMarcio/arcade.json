@@ -1,0 +1,34 @@
+{
+	"name": "Savegames example",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "n76bw4gybu5",
+	"viewport-width": 640,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "244",
+	"c3version": "r432.3",
+	"ife": true,
+	"used-plugins": [
+		"TiledBg",
+		"Sprite",
+		"Mouse",
+		"Text",
+		"Keyboard",
+		"TextBox",
+		"Button",
+		"AJAX"
+	],
+	"used-behaviors": [
+		"EightDir",
+		"bound",
+		"scrollto",
+		"destroy",
+		"Bullet",
+		"Fade"
+	]
+}
