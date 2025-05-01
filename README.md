@@ -29,4 +29,7 @@
 3. Atire nos zumbis e sobreviva o máximo que puder.
 4. Alcance a maior pontuação possível!
 
+https://jogo-construct-3-a92c5-default-rtdb.firebaseio.com/ 
+Jogo no Firebase
+
 
